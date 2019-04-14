@@ -1,4 +1,4 @@
-module two_num_sum
+module github.com/dbyington/go-practice
 
 go 1.12
 
